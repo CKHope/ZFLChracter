@@ -1,0 +1,22 @@
+# pip install -r requirements.txt
+jupyterlab
+notebook
+voila
+pandas
+numpy
+spacy
+networkx
+pyvis
+matplotlib
+scipy
+python-louvain
+jieba
+openpyxl
+cjkradlib
+python-dotenv
+aiohttp
+asyncio
+requests
+httpx
+#jupyter lab
+# import pandas as pd
